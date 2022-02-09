@@ -1,1 +1,12 @@
- 
+{
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : "Family Guy RP: Reborn",
+      "name" : "Family Guy RP: Reborn",
+      "version" : "0.1.0",
+      "location" : "family-guy-rp-reborn.json",
+      "priority" : 1
+    }
+  ]
+}
